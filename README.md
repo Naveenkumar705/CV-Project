@@ -23,5 +23,5 @@ How to run and use the project.
 1. Clone the repository: `git clone https://github.com/Naveenkumar705/CV-Project.git`
 2. Open the `index.html` file in any browser to view the CV.
 
-## Project URL
-[Project URl](https://naveenkumar705.github.io/CV-Project/)
+## Project Page URL
+[Project url](https://naveenkumar705.github.io/CV-Project/)
