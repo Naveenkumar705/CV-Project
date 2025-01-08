@@ -22,4 +22,4 @@ The goal of the project is to create a professional and clean CV layout that can
 How to run and use the project.
 
 ## Project URL
-(https://naveenkumar705.github.io/CV-Project/)
+[View Live Project](https://naveenkumar705.github.io/CV-Project/)
