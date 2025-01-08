@@ -10,7 +10,6 @@ The goal of the project is to create a professional and clean CV layout that can
 2.SEO Meta Tags
 3.Open Graph (OG) Tags
 4.Favicon
-5.
 
 ## Installation
 1. Clone the repository:
@@ -23,4 +22,4 @@ The goal of the project is to create a professional and clean CV layout that can
 How to run and use the project.
 
 ## Project URL
-[Live Project Page]()
+[Live Project Page](https://naveenkumar705.github.io/CV-Project/)
