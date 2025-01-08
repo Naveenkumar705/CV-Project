@@ -24,4 +24,4 @@ How to run and use the project.
 2. Open the `index.html` file in any browser to view the CV.
 
 ## Project URL
-[View Live Project](https://naveenkumar705.github.io/CV-Project/)
+[Project URl](https://naveenkumar705.github.io/CV-Project/)
