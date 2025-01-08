@@ -14,12 +14,14 @@ The goal of the project is to create a professional and clean CV layout that can
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Naveenkumar705/CV-Project.git
    
 2. Navigate to the project directory and follow setup instructions.
 
 ## Usage
 How to run and use the project.
+1. Clone the repository: `git clone https://github.com/Naveenkumar705/CV-Project.git`
+2. Open the `index.html` file in any browser to view the CV.
 
 ## Project URL
 [View Live Project](https://naveenkumar705.github.io/CV-Project/)
