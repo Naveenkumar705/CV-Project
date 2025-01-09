@@ -1,5 +1,5 @@
 # Single-Page CV
-
+[Project url]https://naveenkumar705.github.io/CV-Project/
 # Description
 The Single-Page HTML CV project is designed to create a digital version of a Curriculum Vitae (CV) or resume using only HTML. 
 The webpage will be structured with semantic HTML elements to ensure accessibility and easy indexing by search engines. 
